@@ -34,6 +34,7 @@ const HomePage: FC = () => {
       <AboutUs />
       <Marginer direction="vertical" margin="8em" />
       <TopCars />
+      <Marginer direction="vertical" margin="8em" />
       <Footer />
     </PageContainer>
   );
